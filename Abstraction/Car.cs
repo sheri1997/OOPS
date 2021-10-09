@@ -1,6 +1,7 @@
 ﻿using System;
 namespace Abstraction
 {
+    
     abstract class Car
     {
         public abstract void Color();
